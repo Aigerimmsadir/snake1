@@ -1,0 +1,32 @@
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\bin\Debug\Snake.exe.config
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\bin\Debug\Levels\level1.txt
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\bin\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\bin\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\obj\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\obj\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master\Snake\bin\Debug\Levels\level2.txt
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\bin\Debug\Snake.exe.config
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\obj\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\obj\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\bin\Debug\Levels\level1.txt
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\bin\Debug\Levels\level2.txt
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\bin\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\PT2017_W5G2_Snake-master — копия\Snake\bin\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\snake1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Lenovo\Desktop\snake1\Snake\obj\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\snake1\Snake\obj\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\snake1\Snake\bin\Debug\Levels\level1.txt
+C:\Users\Lenovo\Desktop\snake1\Snake\bin\Debug\Levels\level2.txt
+C:\Users\Lenovo\Desktop\snake1\Snake\bin\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\snake1\Snake\bin\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\snake1\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\obj\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\obj\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\bin\Debug\Levels\level1.txt
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\bin\Debug\Levels\level2.txt
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\bin\Debug\Snake.exe
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\bin\Debug\Snake.pdb
+C:\Users\Lenovo\Desktop\my projects\snake1\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
